@@ -29,3 +29,4 @@ _Note: the title of the issue should start with "Request: " and then the actual 
 **Your topic request:** example: I'd really like to learn how to properly use interfaces in Go to improve the testability of my code
 
 
+*Note*: This file shamelessly stolen from the fantastic [CharmCityJS](https://github.com/charmCityJs/talks/blob/master/README.md) meetup!
